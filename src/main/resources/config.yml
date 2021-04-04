@@ -1,0 +1,14 @@
+#载入插件时候是否显示作者
+OutLogo: true
+#kit插件领取礼包的指令
+#注意：不要带空格
+Command: "kit"
+#延迟领取 20tick = 1s
+Tick: 20
+#如果领取kit需要权限，并且你已经在权限插件添加相关权限了。这里可以忽略
+Permission:
+  #开关 true：开 false：关
+  active: false
+  #插件的权限
+  #注意：不要带空格
+  permission: ""
