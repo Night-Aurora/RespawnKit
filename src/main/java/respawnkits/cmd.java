@@ -43,6 +43,7 @@ public class cmd implements TabExecutor{
                 send(sender,"§7|   §eMade By Night_Aurora  |");
                 send(sender,"§7| §eLatest Build 26/12/2020 |");
                 send(sender,"§7|-------------------------|");
+                send(sender,"§7Github: https://github.com/Night-Aurora/RespawnKit");
             } else if (args[0].equalsIgnoreCase("help")) {
                 sender.sendMessage("§7§l-------RespawnKits§7-------");
                 for (String subcmd : RespawnKits.subcmd){
