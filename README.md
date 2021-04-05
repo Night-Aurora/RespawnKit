@@ -3,5 +3,3 @@
 
 <br> /reskit help 获取更多帮助
 <br> /reskit bind 【name】/none 绑定kit/删除已有绑定
-
-# ---禁止商用---
